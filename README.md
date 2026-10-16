@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Seth+Kimani!;Enthusiast+Software+Developer+&+learner)](https://git.io/typing-svg)
 
-<h1 align="center"> Hi, 👋 I'm Seth Kimani </h1>
+<h1 align="center"> Hi, 👋 I'm Seth Juda Kimani </h1>
 
 ---
 
@@ -73,29 +73,29 @@
         width="30" />
     </a>
     <a href="https://www.youtube.com/@juliamuiruri/videos" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/youtube.svg" 
-        alt="juliamuiruri" 
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        alt="Seth-Kimani" 
         height="30" 
         width="30" />
     </a>
     <a href="https://twitter.com/juliamuiruri4" target="blank">
         <img align="center" 
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/twitter.svg" 
-        alt="juliamuiruri4" 
+        alt="Seth-Kimani" 
         height="30" 
         width="30" />
     </a>
-    <a href="https://www.facebook.com/julia.muiruri.10?mibextid=ZbWKwL" target="blank">
+    <a href=#" target="blank">
         <img align="center" 
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/facebook.svg"
-        alt="juliamuiruri4" 
+        alt="Seth-Kimani" 
         height="30" 
         width="30" />
     </a>
-    <a href="https://dev.to/juliamuiruri4" target="blank">
+    <a href="https://dev.to/sethkimani" target="blank">
         <img align="center" 
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/devto.svg"
-        alt="juliamuiruri-devto" 
+        alt="Seth-Kimani" 
         height="30" 
         width="30" />
     </a>
