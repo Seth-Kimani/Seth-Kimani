@@ -72,19 +72,6 @@
         height="30" 
         width="30" />
     </a>
-    <a href="https://www.youtube.com/@juliamuiruri/videos" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="Seth-Kimani" 
-        height="30" 
-        width="30" />
-    </a>
-    <a href="https://twitter.com/juliamuiruri4" target="blank">
-        <img align="center" 
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/twitter.svg" 
-        alt="Seth-Kimani" 
-        height="30" 
-        width="30" />
-    </a>
     <a href=#" target="blank">
         <img align="center" 
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/facebook.svg"
